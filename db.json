@@ -10,5 +10,67 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  {
+  "signupUsersList": [
+    {
+      "id": 1715439631764,
+      "username": "hetu",
+      "email": "adamwedddiss651@dgmail.com",
+      "password": "12345"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "0",
+      "playlistName": "sdfghjk",
+      "tags": "gg,sbshcds,dscds",
+      "description": "ghg",
+      "isPublic": false,
+      "coverImage": "hdbhds",
+      "userId": 1715362195459
+    },
+    {
+      "id": "1715436280502",
+      "playlistName": "dfdddd",
+      "tags": "ndjnsa",
+      "description": "sds",
+      "isPublic": false,
+      "coverImage": "sds",
+      "userId": 1715362195459
+    },
+    {
+      "id": 1715449092233,
+      "playlistName": "wedbhewbd",
+      "tags": "wedewd,edewdewd,",
+      "description": "wdbhwde",
+      "isPublic": false,
+      "coverImage": "wedewd",
+      "userId": 1715439631764
+    }
+  ],
+  "songs": [
+    {
+      "id": "1715437691192",
+      "title": "dhewbd",
+      "filePath": "ehdew",
+      "tags": "shfe",
+      "isFav": false,
+      "playListId": "1715436280502",
+      "thumbnailImage": "hh",
+      "userId": 1715362195459
+    },
+    {
+      "id": 1715449073526,
+      "title": "djnfew",
+      "filePath": "edewjdf",
+      "tags": "jdfdf,sdfhdsuf",
+      "isFav": false,
+      "playListId": "1715436280502",
+      "thumbnailImage": "dbhfb",
+      "userId": 1715439631764
+    }
+  ]
+}
+  
 }
